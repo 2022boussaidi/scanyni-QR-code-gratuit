@@ -1,0 +1,6 @@
+[submodule "QRAndBarcodeScanner"]
+	path = QRAndBarcodeScanner
+	url = https://github.com/2022boussaidi/QRAndBarcodeScanner.git
+[submodule "data_firebase"]
+	path = data_firebase
+	url = https://github.com/2022boussaidi/data_firebase.git
